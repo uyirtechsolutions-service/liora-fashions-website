@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Women's collections
+
+The storefront reflects Liora Fashions' women's wear menu: Salwar Set, Sharara, Co-ord Set, Kurtis, Leggings, Feeding Top, Anarkali, Straight Pants, and Plazo. Collection cards use fashion photography from Unsplash.
+
+The Visit Us section links to the shop location on Google Maps.
+
+## WhatsApp orders
+
+All order and contact buttons open a WhatsApp chat with the store at `+91 9443906305`. Product order links include the product name in the prefilled message. To use a different number, set `NEXT_PUBLIC_WHATSAPP_NUMBER` in `.env.local` using the international country code and digits.
+
+```env
+NEXT_PUBLIC_WHATSAPP_NUMBER=919443906305
+```
