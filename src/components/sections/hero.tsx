@@ -101,7 +101,7 @@ export function Hero() {
           your moment
         </div>
         <span className="hero-index" aria-hidden="true">
-          LIORA — EST. 2024
+          LIORA — EST. 2026
         </span>
       </div>
     </section>
